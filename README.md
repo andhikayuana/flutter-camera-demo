@@ -1,6 +1,12 @@
 # flutter_camera_demo
 
-A new Flutter project.
+Flutter Camera Demo
+
+## Screenshot
+
+| | | |
+|------------|-|-|
+| ![Alt HomeScreen](./screenshot/Screenshot_1613690219.png "HomeScreen") | ![Alt CameraScreen](./screenshot/Screenshot_1613690228.png "CameraScreen") | ![Alt DisplayPictureScreen](./screenshot/Screenshot_1613690234.png "DisplayPictureScreen") |
 
 ## Getting Started
 
